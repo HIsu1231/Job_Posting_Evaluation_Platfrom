@@ -59,7 +59,7 @@ with col2:
                     <div style='font_size: 16px; lien-height: 1.8;'>
                     평가주관기관: (주)원티드랩<br>
                     평가위탁기관: (주)어니컴<br>
-                    평가수행기관: (주)팀와이</div>
+                    평가수행기관: (주)딥앤하이</div>
                     <hr style='border: 0; height: 1; background-color: black; margin-top: 20px; margin-bottom: 20px'>""",
                 unsafe_allow_html=True)
 
