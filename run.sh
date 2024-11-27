@@ -1,0 +1,1 @@
+streamlit run 개인정보수집동의.py

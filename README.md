@@ -1,1 +1,1 @@
-# Job_Posting_Evaluation_Platfrom
+# Job_Posting_Evaluation_Platform
